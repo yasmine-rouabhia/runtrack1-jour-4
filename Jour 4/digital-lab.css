@@ -1,0 +1,92 @@
+img{
+    src: url("logosite/logoplt.png");
+    width: 380px; ;
+    height: 55px;
+    
+    }
+.barrehaut{
+    background-color: white;
+    }
+
+h1{
+    color: aliceblue;
+    top: 5px;
+    }
+
+h2{
+    color: #ffca4b;
+
+    }
+
+h4{
+    color: aliceblue;
+
+    }
+
+body{
+    background-color:#275fa0 ;
+    
+    }
+p{
+    color:white;
+
+    }
+
+html, body {
+    margin: 0;
+    padding: 0;
+    }
+
+.bouton{border-radius: 20px;
+    box-shadow: white;
+    background: #ffca4b;
+    color: #fff;
+    border: 1px solid #eee;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #eee;
+    text-shadow: none;
+    height: 50px;
+    margin-right: 265px;
+    margin-left: 950px;
+    
+    }     
+
+
+ul{
+    display: flex;
+    justify-content: right;
+    list-style-type: none;
+    margin-right: 5cm;
+    }   
+
+.inno{
+    width: 450px;
+    height: 300px;
+    margin-right: 5cm;
+    }
+
+.topright{
+    float: right;
+    display: flex;
+    justify-content: right;
+
+    }
+
+#contenu{
+    font:Verdana, Geneva, sans-serif;
+    font-size:18px;
+    text-align:left;
+    height:50px;
+    vertical-align:middle;
+    line-height: 50px;
+    }
+
+.bbas{
+    width: 200px; ;
+    height: 200px;
+    padding: 100px;
+    }
+
+footer{
+    background:rgb(195, 34, 216);
+}
